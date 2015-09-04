@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* content start */
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #dirPathArea p {
+	color:#032d53;
+	font-size:14px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #dirPathArea p a{
+	color:#032d53;
+	font-size:14px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockA01 .ListBlockA01 p {
+	font-size:12px;
+	font-family:Arial;
+	margin-top:6px;
+	margin-left:4px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockA01 .ListBlockA01 :hover a{
+	
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockA01 #ListBlockA02 #imgBlockA01
+{
+	margin-top:5px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockB01 #textBlockA01 .TitleA01{
+	font-size:18px;
+	color:#032d53;
+	margin-top:10px;
+	font-family:Arial;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockB01 #textBlockA01 .textA01{
+	font-size:14px;
+	font-family:Arial;
+	margin-top:8px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockB01 #contentDetailA01 .textDetailA01{
+	font-size:12px;
+	font-family:Arial;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockB01 #contentDetailA01 .textDetailA02{
+	font-size:11px;
+	font-family:Arial;
+	color:#4b4b4b;
+	margin-left:10px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockB01 #contentDetailA01 .detailicon .detailtext {
+	color:#032d53;
+	font-family:Arial;
+	font-size:18px;
+	padding-top:3px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockB01 #contentDetailA01 .detailicon a
+{
+	color:#fff;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentBlockB01 #contentDetailA01 .detailicon:hover a
+{
+	color:#032d53;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentNav ul li 	{
+	display:inline-block;
+	font-size:18px;
+	font-family:Arial;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentNav .NumNav{
+	color:#032d53;
+	font-weight:bold;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentNav .NumNav span{
+	padding-top:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentNav ul li div:hover{
+	background-color:#032d53;
+	color:#FFFFFF;
+	cursor:pointer;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #contentNav ul li .NextPrevNav:hover {
+	color:#d3b86a;
+	cursor:pointer;
+}
+
+

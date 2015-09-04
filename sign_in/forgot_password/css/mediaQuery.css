@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+ @media screen and (max-width: 320px), (min-device-width: 320px) and (max-device-width: 480px) and (orientation : portrait) {
+#wrap #innerWrap #contentWrap
+{
+	width:320px;
+	height:auto;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:300px;
+	margin:auto;
+	height:400px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #dirpath{
+	width:300px;
+	height:14px;
+	margin:20px 0px 20px 0px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	width:300px;
+	height:75px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #headingBlockA01{
+	width:300px;
+	height:32px;
+	padding:5px 0px 3px 10px;
+	background:url(../../../images/contents_img_017.png) no-repeat;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #headingBlockA01 h1{
+	font-size:20px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01{
+	width:300px;
+	height:175px;
+	border:1px solid #a1a1a1;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail01{
+	width:260px;
+	height:100px;
+	margin:10px 0px 10px 10px;
+	margin-bottom:7px;
+	border-bottom:1px solid #a1a1a1;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail01 input {
+	width:240px;
+	height:30px;
+	margin:10px 0px 0px 0px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail02{
+	width:230px;
+	height:50px;
+	margin:5px 0px 10px 10px;
+}
+
+
+}

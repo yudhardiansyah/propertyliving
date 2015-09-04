@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* contentstart */
+#wrap #innerWrap #contentWrap
+{
+	width:1920px;
+	height:400px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:960px;
+	margin:auto;
+	height:400px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #dirpath{
+	width:960px;
+	height:14px;
+	margin:20px 0px 20px 0px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	width:960px;
+	height:75px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #headingBlockA01{
+	width:960px;
+	height:32px;
+	padding:5px 0px 3px 10px;
+	background:url(../images/contents_heading_001.png) no-repeat;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01{
+	width:360px;
+	height:175px;
+	border:1px solid #a1a1a1;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail01{
+	width:340px;
+	height:100px;
+	margin:10px 0px 10px 10px;
+	margin-bottom:7px;
+	border-bottom:1px solid #a1a1a1;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail01 input {
+	width:330px;
+	height:30px;
+	margin:10px 0px 0px 0px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail02{
+	width:330px;
+	height:50px;
+	margin:5px 0px 10px 10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail02 #btnBlockA01{
+	width:100px;
+	height:40px;
+	background:#032d53;
+	margin-top:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail02 #btnBlockA01:hover{
+	background:#d3b86a;
+	margin-top:10px;
+	cursor:pointer;
+	transition:0.5s all ease;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail02 #btnBlockA01:hover p
+{
+	color:#032d53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #borderBlockA01 #contentDetail02 #btnBlockA01 p{
+	padding-top:10px;
+	padding-left:32px;
+}
+/* content end */

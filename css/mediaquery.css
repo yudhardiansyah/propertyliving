@@ -1,0 +1,309 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 320px), (min-device-width: 320px) and (max-device-width: 480px) and (orientation : portrait) {
+/*banner start*/
+.showItem{display:none}
+.hideItem{display:block}
+	#slideshow{
+		display:none;
+	}
+	#wrap #innerWrap #bannerBlockA{
+		width:300px;
+		height:330px;
+		margin:0;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB{
+		width:320px;
+		height:500px;
+		margin:10px 0px 0px 0px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB h1{
+		display:none;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockC{
+		width:300px;
+		height:300px;
+		margin:0px 0px 0px 10px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockD {
+		width:300px;
+		height:300px;
+		border:1px solid #a1a1a1;
+		margin:37px 0px 0px 10px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE {
+		width:320px;
+		height:300px;
+		margin:0px 0px 0px 10px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE label p{
+		font:arial;
+		font-size:16px;
+		margin:8px 0px 0px 0px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #addressBlock{
+		width:280px;
+		height:25px;
+		border:1px solid #A7A7A7
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #addressBlock img{
+		display:none;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #addressBlock input {
+		margin-top: 0px;
+		margin-left: 10px;
+		height: 20px;
+		width: 200px;
+		border: medium none;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA01{
+		width:320px;
+		height:400px;
+	}
+	#bannerBlockE > div {
+    height:400px;
+	width:320px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA01 #formBlockC ul li
+	{
+	display:block;	
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA01 #formBlockC ul li:first-child select {
+		width: 280px;
+		height: 25px;
+		color: #A7A7A7;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA01 #formBlockC ul li:nth-child(2) select {
+		width: 280px;
+		height: 25px;
+		color: #A7A7A7;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA01 #formBlockC ul li:nth-child(3) select {
+		width: 280px;
+		height: 25px;
+		color: #A7A7A7;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA01 #formBlockC ul li:nth-child(4) select {
+		width: 280px;
+		height: 25px;
+		color: #A7A7A7;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA01 #formBlockC ul li
+	{
+		margin : 10px 0px 10px 0px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA02 {
+		width: 100px;
+		height: 30px;
+		float:none;
+		background: none repeat scroll 0% 0% #032D53;
+		margin-left: 180px;
+		margin-top: 230px;
+	}
+	
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA02 img {
+		display:none;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA02 p
+	{
+		margin:3px 0 0px 20px;
+		font-size:18px;
+		color:#ffffff;
+		position:absolute;
+		cursor:pointer;
+	}
+	
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab1 #formBlockA02 p 
+	{
+		margin:3px 0 0px 33px;
+		font-size:18px;
+		color:#ffffff;
+		position:absolute;
+		cursor:pointer;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE {
+		width:320px;
+		height:300px;
+		margin:0px 0px 0px 10px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE label p{
+		font:arial;
+		font-size:16px;
+		margin:8px 0px 0px 0px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #addressBlock{
+		width:280px;
+		height:25px;
+		border:1px solid #A7A7A7
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #addressBlock img{
+		display:none;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #addressBlock input {
+		margin-top: 0px;
+		margin-left: 10px;
+		height: 20px;
+		width: 200px;
+		border: medium none;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA01{
+		width:320px;
+		height:400px;
+	}
+	#bannerBlockE > div {
+    height:400px;
+	width:320px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA01 #formBlockC ul li
+	{
+	display:block;	
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA01 #formBlockC ul li:first-child select {
+		width: 280px;
+		height: 25px;
+		color: #A7A7A7;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA01 #formBlockC ul li:nth-child(2) select {
+		width: 280px;
+		height: 25px;
+		color: #A7A7A7;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA01 #formBlockC ul li:nth-child(3) select {
+		width: 280px;
+		height: 25px;
+		color: #A7A7A7;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA01 #formBlockC ul li:nth-child(4) select {
+		width: 280px;
+		height: 25px;
+		color: #A7A7A7;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA01 #formBlockC ul li
+	{
+		margin : 10px 0px 10px 0px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA02 {
+		width: 100px;
+		height: 30px;
+		float:none;
+		background: none repeat scroll 0% 0% #032D53;
+		margin-left: 180px;
+		margin-top: 230px;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA02 img {
+		display:none;
+	}
+	#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE .tab2 #formBlockA02 p
+	{
+		margin:3px auto 0px 20px;
+		font-size:18px;
+		color:#ffffff;
+		position:absolute;
+		cursor:pointer;
+	}
+/*banner end*/
+/*content start*/
+	/*Promo banner start*/
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01{
+		display:none;
+	}
+	/*Promo banner end*/
+	#wrap #innerWrap #contentWrap {
+		width: 320px;
+		height: 1370px;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap {
+		width: 320px;
+		margin: auto;
+		height: 1350px;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 {
+		width: 320px;
+		height: 1365px;
+		float: left;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .contentBlockG01 {
+		width: 320px;
+		height: 368px;
+		margin-top: 25px;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01{
+		display:none;
+	}
+	/*Best Area Start*/
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .del{
+		display:none;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockF01{
+		display:none;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockE01 {
+		width: 320px;
+		height: 40px;
+		background:url(../images/contents_img_017.png) no-repeat;
+		margin:0px 0px 0px 10px;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .contentBlockG01 #contentBlockH01{
+		width: 300px;
+    	height: 640px;
+		margin:0px 0px 0px 10px;
+    	border: 1px solid #A1A1A1;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .contentBlockG01 #contentBlockH01 .contentBlockH02{
+		width:280px;
+		height:300px;
+		border:none;
+	}
+	/*Best area end*/
+	/*latest properties sale start*/
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 {
+		width: 320px;
+		height: 320px;
+		margin-top: 30px;
+		float: left;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 .contentBlockI03 {
+		width: 280px;
+		height: 40px;
+		background:url(../images/contents_img_017.png) no-repeat;
+		margin:0px 0px 0px 10px;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 .contentBlockI04 {
+		width: 290px;
+		height: 250px;
+		border: 1px solid #A1A1A1;
+		margin:0px 10px 0px 10px;
+		padding-left: 10px;
+		padding-top: 20px;
+	}
+	.contentBlockI04 > div {
+		display: none;
+		padding: 10px 0px;
+		height: 430px;
+		width: 280px;
+		overflow: hidden;
+		border-top: 1px solid #D1B669;
+	}
+	/*latest properties sale end*/
+	/*latest properties rent start*/
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02:last-child {
+		width:320px;
+		height:500px;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 {
+		width: 320px;
+		height: 325px;
+		float: left;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 #dif{
+		margin:0px 0px 0px 0px;
+	}
+	/*latest properties rent end*/
+	/*side area start*/
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01{
+		display:none;
+	}
+	/*side area end*/
+/*content end*/
+}

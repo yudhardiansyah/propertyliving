@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* contentstart */
+#wrap #innerWrap #contentWrap
+{
+	width:1920px;
+	height:700px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:960px;
+	margin:auto;
+	height:700px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	width:960px;
+	margin:20px 0 20px 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01
+{
+	width:960px;
+	height:73px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01
+{
+	width:960px;
+	height:540px;	
+	background:#e9dbb4;
+	margin-top:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01
+{
+	width:275px;
+	height:540px;	
+	float:left;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01 #contentBlockD01detail{
+	width:210px;
+	height:100px;
+	margin:20px 0px 0px 10px;
+}
+#reco1{
+	width:30px;
+	height:20px;
+	margin:0px 0px 0px 18px;
+	background-color:#16BF0A;
+}
+#reco2{
+	width:30px;
+	height:20px;
+	margin:0px 0px 0px 18px;
+	background-color:#E9D910;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01 #category{
+	width:200px;
+	height:30px;
+	margin:10px 0px 0px 0px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01 #category #reco1{
+	width:30px;
+	height:20px;
+	margin:0px 0px 0px 18px;
+	background-color:#16BF0A;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01 #category #reco2{
+	width:30px;
+	height:20px;
+	margin:0px 0px 0px 18px;
+	background-color:#E9D910;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockE01
+{
+	width:660px;
+	height:540px;	
+	float:right;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockE01 div
+{
+	margin-right:9999px;
+	display:none;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockE01 div:first-child
+{
+	display:block;
+}
+
+/* content end */
+
+.left{
+	float:left;
+}
+
+
+

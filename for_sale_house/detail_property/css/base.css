@@ -1,0 +1,200 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* content start */
+#wrap #innerWrap #contentWrap
+{
+	width:1920px;
+	height:1750px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:960px;
+	margin:auto;
+	height:1750px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	width:960px;
+	margin:20px 0 20px 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap .contentBlockB01
+{
+	height:40px;
+	width:378px;
+	background-image:url(images/content_image_001.png);
+	background-repeat:no-repeat;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01
+{
+	width:650px;
+	height:1645px;
+	float:left;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01
+{
+	width:290px;
+	height:1645px;
+	float:right;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 ul li
+{
+	margin-bottom:20px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockE01
+{
+	width:650px;
+	height:70px;
+	border:1px solid grey;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockE01 .contentBlockF01
+{
+	width:200px;
+	height:60px;
+	float:left;	
+	margin-left:10px;
+	margin-top:5px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockE01 .contentBlockF01 ul li
+{
+	display:inline;
+	margin-right:15px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockE01 .contentBlockF01 ul
+{
+	text-align:center;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockG01
+{
+	width:650px;
+	height:575px;
+	border:1px solid grey;	
+	margin-top:17px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockH01
+{
+	width:650px;
+	height:55px;
+	border:1px solid grey;	
+	margin-top:15px;	
+}
+
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockH01 .contentBlockI01
+{
+	width:310px;
+	height:55px;
+	float:left;
+	padding-top:10px;	
+	padding-left:20px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockH01 .contentBlockI01:first-child 
+{
+	width:80px;
+	height:55px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockH01 .contentBlockI01:nth-child(2)
+{
+	width:220px;
+	height:55px;
+	margin-left:0;
+	padding-left:0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockH01 .contentBlockI01 ul li
+{
+	display:inline-block;	
+	margin:1px 0 0 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockH01 .contentBlockI01 .icon
+{
+	margin:10px 0 0 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockH01 .contentBlockI01:last-child ul
+{
+	float:right;
+	margin-right:15px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockH01 .contentBlockI01:last-child ul li
+{
+	margin-right:20px
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockJ01
+{
+	width:625px;
+	height:375px;
+	border:1px solid grey;	
+	margin-top:15px;
+	font-size:12px;
+	padding-left:25px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockK01 
+{
+	width:650px;
+	height:500px;
+	border:1px solid grey;	
+	margin-top:15px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockK01 iframe
+{
+	margin-left:10px;	
+	margin-top:20px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockL01
+{
+	width:285px;
+	height:270px;
+	text-align:center;
+	border:1px solid black;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockL01 ul li
+{
+	margin:0;
+	padding:0;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockL01 #scTitle
+{
+	width:285px;
+	height:35px;
+	background:#022c53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockL01 #scButton
+{
+	height:42px;
+	width:132px;
+	background-image: linear-gradient(to bottom, #043969, #021f39);
+	margin:auto;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockL01 #scButton:hover
+{
+	background-image: linear-gradient(to bottom, #022c53, #022c53);
+}
+/* content end */
+
+
+
+

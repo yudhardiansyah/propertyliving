@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* CSS Document */
+.showItem{display:block}
+.hideItem{display:none}
+
+html
+{
+	font-family:Arial, serif;
+	background-color:#FFFFFF;	
+}
+
+hr
+{
+	border-color:#CDCDCD;
+}
+
+.lineBlock
+{
+	width:auto;
+	height:20px;	
+}
+
+/* wrap start */
+#wrap #innerWrap #headerBlockA01 #headerBlockB01 #headerBlockC01
+{
+	color:#FFFFFF;
+	font-family:Arial, serif;
+	font-size:12px;	
+	text-decoration:none;
+}
+
+.formDiv
+{
+	width:260px; 
+	height:30px
+}
+
+.formButton
+{
+	height:30px;
+	width:92px;
+	margin-left:40px;	
+}
+
+.langEn
+{
+	font-weight:bold;
+	color:#d3b86a;
+}
+
+.langInd
+{
+	font-weight:bold;
+	color:#FFFFFF;	
+}
+
+.langTextEn
+{
+	color:#d3b86a;
+	font-weight:bold;	
+}
+
+.langTextInd
+{
+	font-weight:bold;
+	color:#fff;	
+}
+
+a:link {
+	text-decoration:none;
+}
+
+a:visited {
+   text-decoration:none;
+}
+
+a:hover {
+	text-decoration:none;
+}
+
+a:active {
+	text-decoration:none;
+}
+
+/*Header Start */
+#wrap #innerWrap #headerBlockA01 #headerBlockB01 #headerBlockC01 #loginBlock ul li a {
+  color:#FFFFFF;
+}
+
+#wrap #innerWrap #headerBlockA01 #headerBlockB01 #headerBlockC01 #loginBlock ul #outbutton
+{
+	padding-left:15px;
+}
+
+#wrap #innerWrap #headerBlockA01 #headerBlockB01 #headerBlockC01 #loginBlock #register .formBlockB .formBlockA a
+{
+	text-decoration:none;
+}
+
+#wrap #innerWrap #headerBlockA01 #headerBlockB01 #headerBlockC01 #loginBlock #register .formBlockB .formBlockA a:hover
+{
+	cursor:pointer;
+}
+/*gnav start */
+#wrap #innerWrap #gnavBlockA01 #gnavBlockB01 #gnavBlockC01
+{
+	color:#FFFFFF;
+	font-family:Arial;
+	font-size:14px;	
+	text-decoration:none;
+}
+
+
+#wrap #innerWrap #gnavBlockA01 #gnavBlockB01 #gnavBlockC01 ul li
+{
+	display:inline-table;
+}
+/*gnav End */
+/*banner start*/
+#wrap #innerWrap #bannerBlockA #bannerBlockB h1
+{
+	color:#FFFFFF;
+	padding-left:87px;
+	margin-top:55px;
+	text-shadow: 2px 2px #606060;
+}
+/*banner End*/
+/*Header End*/
+/*content start*/
+/*content End*/
+
+/*Footer start */
+#wrap #innerWrap #footer
+{
+	color:#032d53;
+}
+
+#wrap #innerWrap #footer #footerBlockC .footerBlockE h2
+{
+	font-weight:100;
+	margin-top:10px;
+}
+
+#wrap #innerWrap #footer #footerBlockC .footerBlockE:first-child p
+{
+	margin-top:10px;
+	margin-left:50px;
+}
+
+#wrap #innerWrap #footer #footerBlockC .footerBlockE 
+{
+	color:#032d53;
+}
+
+#wrap #innerWrap #footer #footerBlockC .footerBlockE:last-child p
+{
+	font-size:12px;
+}
+
+#wrap #innerWrap #footer2 #footer2BlockA .footer2BlockB
+{
+	font-size:12px;
+	color:#032d53;
+}
+
+#wrap #innerWrap #footer2 #footer2BlockA .footer2BlockB p
+{	
+	float:right;	
+}
+
+ #footer a
+ {
+   text-decoration:none;
+   color:#032d53;
+}
+/*footer end */
+/*wrap end */
+

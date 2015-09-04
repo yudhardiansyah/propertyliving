@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width: 320px), (min-device-width: 320px) and (max-device-width: 480px) and (orientation : portrait){
+.showItem{display:none}
+.hideItem{display:block}
+	#wrap #innerWrap #contentWrap{
+		width:320px;
+		height:1700px;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap{
+		width:300px;
+		margin:auto;
+		height:1700px;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01{
+		width:300px;
+		height:20px;
+		margin: 10px 0px 10px 0px;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01{
+		width:300px;
+		height:40px;
+		background:url(../../../images/contents_img_017.png) no-repeat;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 p{
+		background:none;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01{
+		width:300px;
+		height:auto;
+		border:1px solid #a1a1a1;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .colBlockA01{
+		width:300px;
+		height:450px;
+		border-bottom:1px solid #a1a1a1;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .colBlockA01 .listBlockA01 .textBlockC01
+	{
+		padding:10px 0px 0px 0px;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #del{
+		display:none;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .colBlockA01:last-child{
+		border:none;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .colBlockA01 .listBlockA01 {
+		float:none;
+		width:280px;
+		height:173px;
+		margin:20px 0px 0 20px;
+	}
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .colBlockA01 .listBlockA01 .imgBlockD01{
+		margin: 20px 0px 0px 65px;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentNav{
+		width:300px;
+		height:40px;
+		margin-top:28px;
+		padding:0px;
+		text-align:center;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentNav .NextPrevNav{
+		width:80px;
+		height:24px;
+		background-color:#032d53;
+		color:#FFFFFF;
+		margin:6px;
+		border:1px solid #032d53;
+		margin-top:2px;
+		font-weight:bold;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentNav .NextPrevNav:hover{
+		color:#d3b86a;
+	}
+	
+	#wrap #innerWrap #contentWrap #contentInnerWrap #contentNav .NumNav{
+		width:30px;
+		height:24px;
+		background-color:#FFFFFF;
+		border:1px solid #AFACAC;
+		margin:6px;
+		font-weight:bold;
+	}
+}

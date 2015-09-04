@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+/* wrap start */
+
+/* contentstart */
+#wrap #innerWrap #contentWrap
+{
+	width:1920px;
+	height:1000px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:960px;
+	margin:auto;
+	height:1000px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	width:960px;
+	margin:20px 0 20px 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01
+{
+	width:960px;
+	height:840px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockC01
+{
+	width:376px;
+	height:40px;
+	background-image:url(../images/contents_heading_001.png);
+	background-repeat:no-repeat;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01
+{
+	width:960px;
+	height:800px;
+	border:1px solid #a1a1a1;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockE01
+{
+	width:386px;
+	height:800px;
+	float:left;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockF01
+{
+	width:574px;
+	height:800px;
+	float:left;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockE01 #contentBlockG01
+{
+	width:355px;
+	height:150px;
+	border:1px solid #a1a1a1;
+	margin-top:25px;
+	margin-left:10px;	
+	padding:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockF01 #contentBlockH01
+{
+	width:530px;
+	height:745px;
+	border:1px solid #a1a1a1;	
+	margin-top:25px;
+	margin-right:10px;
+	float:right;
+	padding:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockE01 #contentBlockG01 .contentBlockI01
+{
+	width:180px;
+	height: 160px;
+	float:left;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockE01 #contentBlockG01 .contentBlockI01:first-child
+{
+	width:160px;
+	height: 160px;
+	float:left;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockE01 #contentBlockG01 .contentBlockI01 #button1
+{
+	margin-left:20px;
+	margin-top:8px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockF01 #contentBlockH01 .contentDiv
+{
+	height:40px;
+	width:530px;
+	float:left;
+	margin-bottom:20px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockF01 #contentBlockH01 .contentDiv .contentDiv2
+{
+	height:40px;
+	width:200px;
+	float:left;
+	margin-left:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockF01 #contentBlockH01 .contentDiv .contentDiv2#div1
+{
+	border:none;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockF01 #contentBlockH01 .contentDiv .contentDiv2 input[type='file']
+{
+	width:80px;
+	-moz-width:82px;
+    overflow:hidden;
+	padding-top:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockF01 #contentBlockH01 .contentDiv .contentDiv2:first-child
+{
+	padding-top:10px;	
+}
+	
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #contentBlockD01 #contentBlockF01 #contentBlockH01 .contentDiv .contentDiv2:last-child
+{
+	border:1px solid #a1a1a1;
+}
+
+
+/* content end */

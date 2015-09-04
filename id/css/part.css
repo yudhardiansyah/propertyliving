@@ -1,0 +1,290 @@
+@charset "utf-8";
+/* CSS Document */
+
+html
+{
+	font-family:Arial, serif;	
+}
+
+hr
+{
+	border-color:#B3B3B3;
+}
+
+.lineBlock
+{
+	width:auto;
+	height:20px;
+}
+
+.langTextEn
+{
+	color:#d3b86a;
+	font-weight:bold;	
+}
+
+.langTextInd
+{
+	font-weight:bold;
+	color:#fff;	
+}
+
+#wrap #innerWrap #headerBlockA01 #headerBlockB01 #headerBlockC01
+{
+	color:#FFFFFF;
+	font-family:Arial, serif;
+	font-size:12px;	
+	text-decoration:none;
+}
+
+.formDiv
+{
+	width:260px; 
+	height:30px
+}
+
+.formButton
+{
+	height:30px;
+	width:92px;
+	margin-left:40px;	
+}
+
+#langBlock a:visited
+{
+	text-decoration:none;
+	color:#fff;
+}
+
+a:link {
+	text-decoration:none;
+}
+
+a:visited {
+   text-decoration:none;
+}
+
+a:hover {
+	text-decoration:none;
+}
+
+a:active {
+	text-decoration:none;
+}
+
+#wrap #innerWrap #gnavBlockA01 #gnavBlockB01 #gnavBlockC01
+{
+	color:#FFFFFF;
+	font-family:Arial;
+	font-size:14px;	
+	text-decoration:none;
+}
+
+#wrap #innerWrap #gnavBlockA01 #gnavBlockB01 #gnavBlockC01 ul li
+{
+	display:inline-table;
+}
+
+
+#wrap #innerWrap #bannerBlockA #bannerBlockB h1
+{
+	color:#FFFFFF;
+	padding-left:87px;
+	margin-top:55px;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.5);;
+	font-size:48px;
+	font-weight:100;
+}
+
+#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE label
+{
+	text-align:center;
+	font-size:14px;
+	color:#FFFFFF;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+#wrap #innerWrap #bannerBlockA #bannerBlockB #bannerBlockE label p
+{
+	margin-top:10px;
+}
+
+#wrap #innerWrap #headerBlockA01 #headerBlockB01 #headerBlockC01 #loginBlock ul li .formBlockB a{
+	text-decoration:underline;
+	font-size:14px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockE01 p
+{
+	font-size:24px;
+	color:#FFF;
+	padding-top:5px;
+	padding-left:10px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockF01 h2
+{
+	padding-top:33px;
+	padding-left:11px;		
+	color:#032d53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockF01 p
+{
+	padding-top:25px;
+	padding-left:11px;		
+	color:#032d53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockF01 #contentTextA
+{
+	padding-top:17px;
+	padding-left:11px;		
+	color:#7a6a3b;
+	font-weight:100;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .contentBlockG01 #contentBlockH01 .contentBlockH02 figcaption
+{
+	font-weight:bold;
+	font-size:15px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .contentBlockG01 #contentBlockH01 .contentBlockH02 figcaption
+{
+	font-weight:bold;
+	font-size:15px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .contentBlockG01 #contentBlockH01 .contentBlockH02 figcaption p
+{
+	font-weight:normal;
+	font-size:12px;
+	color:#877643;
+	margin-top:3px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .contentBlockG01 #contentBlockH01 .contentBlockH02 figcaption .textBestArea
+{
+	font-weight:bold;
+	font-size:16px;
+	color:#032d53;
+	margin-top:15px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 .contentBlockI03 p
+{
+	font-size:18px;
+	color:#FFF;
+	padding-top:8px;
+	padding-left:10px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 .contentBlockI04 label
+{
+	text-align:center;
+	font-size:15px;
+	color:#000;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 .contentBlockI04 label p
+{
+	margin-top:10px;
+	font-size:16px;
+	font-weight:normal;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 .contentBlockI04 figcaption
+{
+	font-size:12px;	
+	color:#032d53;
+	margin-left:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 .contentBlockI04 figcaption p
+{
+	color:#9a8d67;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockI01 .contentBlockI02 .contentBlockI04 figcaption .locatLatestSale
+{
+	color:#000;
+}
+
+
+.buttonContent {
+  background: #032d53;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 15px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.buttonContent:hover {
+  background:#d3b86a;
+  text-decoration: none;
+  transition:0.5s all ease;
+}
+
+#wrap #innerWrap #footer
+{
+	color:#032d53;
+}
+
+#wrap #innerWrap #footer #footerBlockC .footerBlockE h2
+{
+	font-weight:100;
+	margin-top:10px;
+}
+
+#wrap #innerWrap #footer #footerBlockC .footerBlockE:first-child p
+{
+	margin-top:10px;
+	margin-left:50px;
+}
+
+#wrap #innerWrap #footer #footerBlockC .footerBlockE 
+{
+	color:#032d53;
+}
+
+#wrap #innerWrap #footer #footerBlockC .footerBlockE:last-child p
+{
+	font-size:12px;
+}
+
+#wrap #innerWrap #footer2 #footer2BlockA .footer2BlockB
+{
+	font-size:12px;
+	color:#032d53;
+}
+
+#wrap #innerWrap #footer2 #footer2BlockA .footer2BlockB p
+{	
+	float:right;	
+}
+
+.scrollToTop{
+	width:50px; 
+	height:50px;
+	padding:10px; 
+	text-align:center; 
+	background: whiteSmoke;
+	font-weight: bold;
+	color: #444;
+	text-decoration: none;
+	position:fixed;
+	top:800px;
+	right:80px;
+	display:none;
+	background:url(../images/scroll_img_001.png) no-repeat;
+}
+.scrollToTop:hover{
+	opacity:0.8;
+}
+

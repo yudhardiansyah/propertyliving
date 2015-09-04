@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*content start*/
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 p 
+{
+	font-size:14px;
+	color:#032d53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 a
+{
+	font-size:14px;
+	color:#032d53;
+	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 p 
+{
+	font-size:24px;
+	color:#FFF;
+	padding-top:5px;
+	padding-left:10px;
+	background-image:url(../images/contents_heading_001.png);
+	background-repeat:no-repeat;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 ul
+{
+	padding:12px 0 0 23px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 ul li.listBlockA01
+{
+	font-size:24px;
+	color:#032d53;
+	padding:38px 0 0 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 ul li.listBlockA01 a
+{
+	color:#032d53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 ul li.listBlockA01:first-child
+{
+	padding:0 0 0 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .listBlockC01
+{
+	font-size:18px;
+	list-style:inside;
+	color:#000000;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 .listBlockC01 a
+{
+	color:#032d53;
+}
+/*content End*/

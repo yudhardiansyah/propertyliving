@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width: 320px), (min-device-width: 320px) and (max-device-width: 480px) and (orientation : portrait) {
+.showItem{display:none}
+.hideItem{display:block}
+#wrap #innerWrap #contentWrap
+{
+	width:320px;
+	height:auto;
+}
+
+#wrap #innerWrap #dirPathArea {
+	width:300px;
+	margin:10px 10px 10px 10px;
+	height:15px;	
+}
+
+#wrap #innerWrap #BannerBlockC {
+	display:none;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:300px;
+	margin:auto;
+	margin-top:0px;
+	height:1750px;
+}
+
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	float:none;
+	width:300px;
+	height:460px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #imgBlockA01{
+	width:300px;
+	height:40px;
+	background:url(../../images/contents_img_017.png) no-repeat;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01{
+	width:300px;
+	height:410px;
+	background-color:#ebebeb;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #contentInput{
+	width:270px;
+	height:50px;
+	margin-left:10px;
+	padding-top:30px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #ContentBtn{
+	width:196px;
+	height:45px;
+	background: linear-gradient(#0356a1,#033058);
+	text-align:center;
+	margin:60px 0px 0px 50px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #AdBlockA01{
+	display:none;
+}
+/* agent list start */
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01{
+	float:right;
+	width:320px;
+	height:1310px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01{
+	width:300px;
+	height:150px;
+	margin:10px 10px 10px 20px;
+	border-bottom:1px solid #a1a1a1;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #imgBlockC01{
+	width:100px;
+	height:100px;
+	float:left;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #imgBlockC01 img{
+	width:100px;
+	height:100px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText{
+	float:left;
+	width:200px;
+	height:150px;
+	margin: 0px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText .AgentDetail {
+    font-size: 10px;
+    font-family: Arial;
+    margin: 5px 0px 0px 0px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText .AgentTitle {
+    margin:15px 0px 0px 0px;
+    font-size: 12px;
+    font-family: Arial;
+    color: #032D53;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentLogo{
+	display:none;
+}
+/* agent list end */
+#wrap #innerWrap #contentNav{
+	width:300px;
+	height:100px;
+	margin:auto;
+	margin-top:10px;
+	padding:0px;
+	text-align:center;
+}
+
+#wrap #innerWrap #contentNav .NextPrevNav{
+	width:80px;
+	height:24px;
+	background-color:#032d53;
+	color:#FFFFFF;
+	margin:6px;
+	border:1px solid #032d53;
+	margin-top:2px;
+	font-weight:bold;
+}
+
+#wrap #innerWrap .NumNav{
+	width:30px;
+	height:24px;
+	background-color:#FFFFFF;
+	border:1px solid #AFACAC;
+	margin:6px;
+	font-weight:bold;
+} 
+}

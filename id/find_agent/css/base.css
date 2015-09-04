@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*content start */
+#wrap #innerWrap #contentWrap
+{
+	width:1920px;
+	height:1310px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:960px;
+	margin:auto;
+	margin-top:30px;
+	height:1310px;
+}
+
+#wrap #innerWrap #dirPathArea {
+	width:960px;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	height:30px;	
+}
+
+#wrap #innerWrap #BannerBlockC {
+	width:960px;
+	height:174px;
+	text-align:center;
+	margin:auto;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	float:left;
+	width:376px;
+	height:1310px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #imgBlockA01{
+	width:376px;
+	height:40px;
+	background-image:url(../images/contents_heading_001.png);	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01{
+	width:376px;
+	height:410px;
+	background-color:#ebebeb;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #contentInput{
+	width:272px;
+	height:50px;
+	margin-left:40px;
+	padding-top:30px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #ContentBtn{
+	width:196px;
+	height:45px;
+	background:#032D53;
+	text-align:center;
+	margin-top:60px;
+	margin-left:80px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #AdBlockA01{
+	width:323px;
+	height:586px;
+	margin:auto;
+	margin-top:20px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01{
+	float:right;
+	width:584px;
+	height:1310px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01{
+	width:520px;
+	height:150px;
+	margin:auto;
+	margin-top:10px;
+	border-bottom:1px solid #a1a1a1;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #imgBlockC01{
+	width:136px;
+	float:left;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText{
+	float:left;
+	width:280px;
+	height:150px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentLogo{
+	margin-top:45px;
+	float:right;
+}
+
+#wrap #innerWrap #contentNav{
+	width:960px;
+	height:40px;
+	margin:auto;
+	margin-bottom:20px;
+	padding:0px;
+	text-align:center;
+}
+
+#wrap #innerWrap #contentNav .NextPrevNav{
+	width:80px;
+	height:24px;
+	background-color:#032d53;
+	color:#FFFFFF;
+	margin:6px;
+	border:1px solid #032d53;
+	margin-top:2px;
+	font-weight:bold;
+}
+
+#wrap #innerWrap .NumNav{
+	width:30px;
+	height:24px;
+	background-color:#FFFFFF;
+	border:1px solid #AFACAC;
+	margin:6px;
+	font-weight:bold;
+} 
+/* content end */
+/* wrap end */
+
+
+
+
+

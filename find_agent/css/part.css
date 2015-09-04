@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* content start */
+#wrap #innerWrap #dirPathArea p {
+	color:#032d53;
+	font-size:14px;
+}
+
+#wrap #innerWrap #dirPathArea p a {
+	color:#032d53;
+	font-size:14px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentInnerWrapA01 #dirPathArea p a :hover{
+	outline-color:#FF0004;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #imgBlockA01 p{
+	color:#FFFFFF;
+	font-size:24px;
+	font-family:Arial;
+	margin-left:10px;
+	padding-top:4px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #contentInput #input{
+	width:272px;
+	height:30px;
+	margin-top:10px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #contentInput p{
+	font-size:14px;
+	font-family:Arial;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #ContentBtn p{
+	font-size:26px;
+	font-family:Arial;
+	color:#FFFFFF;
+	padding-top:5px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #ContentBtn:hover p{
+	color:#032D53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #ContentFormA01 #ContentBtn:hover{
+	background:#d3b86a;
+	transition:0.5s all ease;
+	color:#032D53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #AdBlockA01 #imgBlockB02{
+	margin-top:50px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText .AgentTitle{
+	margin-top:15px;
+	margin-left:15px;
+	font-size:14px;
+	font-family:Arial;
+	color:#032d53;	
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText .AgentDetail{
+	font-size:12px;
+	font-family:Arial;
+	margin-top:5px;
+	margin-left:15px;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText .AgentDetail #spacetext1{
+	margin-left:10px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText .AgentDetail #spacetext2{
+	margin-left:37px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 #AgentBlockA01 #AgentText .AgentDetail #spacetext3{
+	margin-left:6px;
+}
+
+#wrap #innerWrap #contentNav ul li 	{
+	display:inline-block;
+	font-size:18px;
+	font-family:Arial;
+}
+
+#wrap #innerWrap #contentNav .NumNav{
+	color:#032d53;
+	font-weight:bold;
+}
+
+#wrap #innerWrap #contentNav .NumNav span{
+	padding-top:10px;
+}
+
+#wrap #innerWrap #contentNav ul li div:hover{
+	background-color:#032d53;
+	color:#FFFFFF;	
+	cursor:pointer;
+}
+
+#wrap #innerWrap #contentNav ul li .NextPrevNav:hover {
+	color:#d3b86a;	
+}
+/* content end */

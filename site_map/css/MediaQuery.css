@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 320px), (min-device-width: 320px) and (max-device-width: 480px) and (orientation : portrait) {
+#wrap #innerWrap #contentWrap
+{
+	width:320px;
+	height:auto;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:300px;
+	margin:auto;
+	height:550px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	width:300px;
+	height:20px;
+	margin:10px 0 10px 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 a
+{
+	color:#032d53;
+	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01
+{
+	width:300px;
+	height:40px;
+	background-image:url(../../images/contents_img_017.png);
+	background-repeat:no-repeat;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 p{
+	background:none;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01
+{
+	width:300px;
+	height:450px;
+	border:1px solid #a1a1a1;
+}
+}

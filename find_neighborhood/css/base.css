@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*Content Start*/
+#wrap #innerWrap #contentWrap
+{
+	width:1920px;
+	height:1000px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap
+{
+	width:960px;
+	margin:auto;
+	height:1000px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01
+{
+	width:960px;
+	margin:20px 0 20px 0;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01
+{
+	width:960px;
+	height:190px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01
+{
+	width:590px;
+	height:695px;
+	float:left;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01
+{
+	width:350px;
+	height:695px;
+	float:right;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockE01
+{
+	width:377px;
+	height:40px;
+	background-image:url(../images/content_image_001.png);
+	background-repeat:no-repeat;
+	padding-left:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockF01
+{
+	width:590px;
+	height:655px;
+	border:1px solid #a1a1a1;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockF01 td
+{
+	padding-left:10px;
+	font-size:14px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockG01
+{
+	width:223px;
+	height:40px;
+	background-image:url(../images/content_image_002.png);
+	background-repeat:no-repeat;
+	color:#fff;
+	padding-left:10px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockH01
+{
+	width:350px;
+	height:290px;
+	border:1px solid #a1a1a1;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockH01 td
+{
+	padding-left:10px;
+	font-size:14px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockI01
+{
+	width:350px;
+	height:205px;	
+	margin-top:25px;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockD01 #contentBlockJ01
+{
+	width:350px;
+	height:165px;	
+	border:1px solid #a1a1a1;
+}
+/*Content End*/
+
+
+
+
+
+

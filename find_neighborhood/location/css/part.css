@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*content start*/
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 p
+{
+	font-size:14px;
+	color:#032d53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 p a
+{
+	font-size:14px;
+	color:#032d53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 p a:last-child
+{
+	font-weight:bold;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockB01 h1
+{
+	font-weight:normal;
+	margin-bottom:10px;
+	color:#022c53;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01 table
+{
+	margin-top:30px;
+	margin-left:10px;
+	background:#fff;
+	border-collapse: collapse;
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01 a:hover > a
+{
+ 	visibility:hidden;		
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockE01 img
+{
+	margin-top:15px;	
+}
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01 table, th, td {
+ 
+} 
+
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockC01 #contentBlockD01 table tr:first-child
+{
+	background:#d7d7d7;	
+	border-top:1px solid black;
+}
+
+

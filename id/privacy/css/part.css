@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*content start*/
+#wrap #innerWrap #contentWrap #contentInnerWrap #dirpath p
+{
+	font-size:14px;
+	color:#032d53;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #dirpath p a
+{
+	font-size:14px;
+	color:#032d53;	
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #headingBlockA001 h1{
+	font:arial;
+	font-size:24px;
+	color:#FFFFFF;
+	font-weight:normal;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #contentdetail p {
+	font-size:14px;
+	color:#000000;
+}
+#wrap #innerWrap #contentWrap #contentInnerWrap #contentBlockA01 #contentdetail p span{
+	font-size:14px;
+	color:#032d53;
+}
+/*content End*/
